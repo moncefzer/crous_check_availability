@@ -1,0 +1,3993 @@
+{
+  "results": {
+    "total": {
+      "value": 35,
+      "relation": "eq"
+    },
+    "page": 0,
+    "pageSize": 24,
+    "items": [
+      {
+        "code": 92,
+        "reference": "3",
+        "bedroomCount": 1,
+        "id": 267,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 1,
+              "unitOfMeasure": "on_foot",
+              "description": "Lignes 1,5 et 8",
+              "id": "1ab8db93-01dd-11e8-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 36,
+          "uairne": "0471023G",
+          "address": "Av. Michel Serres 47000 AGEN",
+          "parkings": [],
+          "description": "<p>A c&ocirc;t&eacute; des IUT et du DUSA.</p>\r\n\r\n<p>T1bis avec 1 lit 2 places.</p>",
+          "location": {
+            "lon": 0.624,
+            "lat": 44.185
+          },
+          "sharedTransports": [],
+          "id": "f8ed1110-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f8ed1110-fc8e-11e7-89ed-005056940822/62567c30c7382-Exterieur_2_la_cressonniere.jpg"
+            },
+            {
+              "src": "f8ed1110-fc8e-11e7-89ed-005056940822/5a69eb2dbdd26-La Cressonni\u00e8re.jpg"
+            }
+          ],
+          "label": "CRESSONNIERE"
+        },
+        "bedCount": 2,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 30.0,
+          "max": 30.0
+        },
+        "label": "T1BIS LIT DOUBLE",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 62935,
+              "max": 62935
+            }
+          },
+          {
+            "type": "couple",
+            "rent": {
+              "min": 62935,
+              "max": 62935
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 2,
+            "type": "mobile"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "267/625584b49245e-T1_BIS_la_cressonniere_1.jpg",
+            "description": "1 lit 2 places"
+          },
+          {
+            "src": "267/625584b4c1c01-T1_BIS_la_cressonniere_2.jpg",
+            "description": "1 lit 2 places"
+          }
+        ]
+      },
+      {
+        "code": 61,
+        "reference": "3",
+        "bedroomCount": 1,
+        "id": 935,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 5,
+              "unitOfMeasure": "on_foot",
+              "description": null,
+              "id": "e4d1a55b-1195-11e8-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 11,
+          "uairne": "0861303Z",
+          "address": "10/12 rue Marcel Dor\u00e9 - 86000 POITIERS",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "e4d1ba67-1195-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>&Agrave; proximit&eacute; de l&#39;IUT, du p&ocirc;le Sciences, de l&#39;UFR de M&eacute;decine-Pharmacie et de la Maison des &Eacute;tudiants.<br />\r\nParking gratuit, salle de travail, laverie, acc&egrave;s internet.<br />\r\nLogement accessible aux personnes &agrave; mobilit&eacute; r&eacute;duite.</p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Loyer charges comprises sauf l&rsquo;&eacute;lectricit&eacute;. <strong>Souscrire un abonnement chez un fournisseur d&rsquo;&eacute;lectricit&eacute; (au choix) &agrave; faire une fois les cl&eacute;s en main.</strong></p>\r\n\r\n<p><a href=\"http://www.stockcrous.fr/visites/Caisso/cite-jules-caisso-poitiers.html\" target=\"_blank\">Visite virtuelle</a></p>\r\n\r\n<p>Pour un logement en colocation, il vous appartient de trouver un colocataire.</p>\r\n\r\n<p><em><strong>Les montants sont donn&eacute;s &agrave; titre indicatif</strong></em><em><strong>. Ils sont susceptibles d&rsquo;&eacute;voluer sur d&eacute;cision du conseil d&rsquo;administration du Crous.</strong></em></p>",
+          "location": {
+            "lon": 0.391,
+            "lat": 46.566
+          },
+          "sharedTransports": [],
+          "id": "55d80783-0821-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Poitiers",
+            "id": 23
+          },
+          "medias": [
+            {
+              "src": "55d80783-0821-11e8-89ed-005056940822/5c7e9d55ac63c-Crous_Poitiers_Residence_Caisso_Poitiers.JPEG"
+            }
+          ],
+          "label": "RESIDENCE JULES CAISSO"
+        },
+        "bedCount": 2,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 30.0,
+          "max": 33.0
+        },
+        "label": "T1 bis",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 40978,
+              "max": 41858
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 2,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": []
+      },
+      {
+        "code": 91,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2147,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 1,
+              "unitOfMeasure": "on_foot",
+              "description": "Lignes 1,5 et 8",
+              "id": "1ab8db93-01dd-11e8-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 36,
+          "uairne": "0471023G",
+          "address": "Av. Michel Serres 47000 AGEN",
+          "parkings": [],
+          "description": "<p>A c&ocirc;t&eacute; des IUT et du DUSA.</p>\r\n\r\n<p>T1bis avec 1 lit 2 places.</p>",
+          "location": {
+            "lon": 0.624,
+            "lat": 44.185
+          },
+          "sharedTransports": [],
+          "id": "f8ed1110-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f8ed1110-fc8e-11e7-89ed-005056940822/62567c30c7382-Exterieur_2_la_cressonniere.jpg"
+            },
+            {
+              "src": "f8ed1110-fc8e-11e7-89ed-005056940822/5a69eb2dbdd26-La Cressonni\u00e8re.jpg"
+            }
+          ],
+          "label": "CRESSONNIERE"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 41778,
+              "max": 41778
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "2147/6255852b3f3b1-T1_la_cressonniere_1.jpg",
+            "description": null
+          },
+          {
+            "src": "2147/6255852b654e4-T1_la_cressonniere_2.jpg",
+            "description": null
+          },
+          {
+            "src": "2147/5a941ef7cb1a7-CRESSONNIERE - T1 (1).jpg",
+            "description": null
+          },
+          {
+            "src": "2147/5a941f0e8279d-CRESSONNIERE - T1 (2).jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 203,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2369,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 100,
+              "unitOfMeasure": "metre",
+              "description": "Bus : Ligne 3 (r\u00e9seau T.U.M.)",
+              "id": "d7e075d1-fd36-11e7-89ed-005056940822",
+              "publicTransport": null
+            }
+          ],
+          "code": 31,
+          "uairne": "0401044T",
+          "address": "269 place de la caserne Bosquet 40000 MONT-DE-MARSAN",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "d7e090b2-fd36-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>En face de la M&eacute;diath&egrave;que de Mont de Marsan, la r&eacute;sidence universitaire Bosquet est situ&eacute;e &agrave; deux pas du centre ville, tr&egrave;s proche du lyc&eacute;e Victor Duruy.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement).</p>",
+          "location": {
+            "lon": -0.493,
+            "lat": 43.897
+          },
+          "sharedTransports": [],
+          "id": "f4e6f6c1-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f4e6f6c1-fc8e-11e7-89ed-005056940822/5a621e74f40dc-Bosquet_1.jpg"
+            }
+          ],
+          "label": "BOSQUET"
+        },
+        "bedCount": 1,
+        "adaptedPmr": true,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1 PMR",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 39724,
+              "max": 39724
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "2369/648af79a55a35-IMG_20230606_103004.jpg",
+            "description": null
+          },
+          {
+            "src": "2369/5aa2673902ff1-T1 Hand.JPG",
+            "description": "Sdb"
+          },
+          {
+            "src": "2369/648af9602ce6f-IMG_20230606_103232.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 87,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2608,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 100,
+              "unitOfMeasure": "metre",
+              "description": "Bus : Ligne 3 (r\u00e9seau T.U.M.)",
+              "id": "d7e075d1-fd36-11e7-89ed-005056940822",
+              "publicTransport": null
+            }
+          ],
+          "code": 31,
+          "uairne": "0401044T",
+          "address": "269 place de la caserne Bosquet 40000 MONT-DE-MARSAN",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "d7e090b2-fd36-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>En face de la M&eacute;diath&egrave;que de Mont de Marsan, la r&eacute;sidence universitaire Bosquet est situ&eacute;e &agrave; deux pas du centre ville, tr&egrave;s proche du lyc&eacute;e Victor Duruy.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement).</p>",
+          "location": {
+            "lon": -0.493,
+            "lat": 43.897
+          },
+          "sharedTransports": [],
+          "id": "f4e6f6c1-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f4e6f6c1-fc8e-11e7-89ed-005056940822/5a621e74f40dc-Bosquet_1.jpg"
+            }
+          ],
+          "label": "BOSQUET"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 39724,
+              "max": 39724
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "2608/648ae11f0fb0f-IMG_20230606_103921.jpg",
+            "description": null
+          },
+          {
+            "src": "2608/648af574f07cb-IMG_20230606_103232.jpg",
+            "description": null
+          },
+          {
+            "src": "2608/648ae1dc5c61c-IMG_20230606_103106.jpg",
+            "description": null
+          },
+          {
+            "src": "2608/648ae55228d90-IMG_20230606_102856.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 86,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2558,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 100,
+              "unitOfMeasure": "metre",
+              "description": "Bus : Ligne 9 (r\u00e9seau Urbus)",
+              "id": "5dc0ca70-fd35-11e7-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 23,
+          "uairne": "0401001W",
+          "address": "93 AV Francis PLANTE 40100 DAX",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": "La r\u00e9sidence dispose d'un vaste parking priv\u00e9.",
+              "id": "5dc0e28b-fd35-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>Dans quartier calme, la r&eacute;sidence universitaire Andr&eacute; Malraux est situ&eacute;e &agrave; proximit&eacute; du lyc&eacute;e de Borda, &agrave; 3kms du lyc&eacute;e Cendrillon et &agrave; 6kms du lyc&eacute;e agricole.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement).</p>",
+          "location": {
+            "lon": -1.04,
+            "lat": 43.699
+          },
+          "sharedTransports": [],
+          "id": "f38dca0f-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f38dca0f-fc8e-11e7-89ed-005056940822/5a621bad640d0-Andr\u00e9 Malraux_1.jpg"
+            }
+          ],
+          "label": "ANDRE MALRAUX"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 34440,
+              "max": 34440
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "2558/622875c260e45-T1_andre_malraux_1.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 67,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 3106,
+        "residence": {
+          "publicTransports": [],
+          "code": 19,
+          "uairne": "0230578D",
+          "address": "41 bis Route d'Aubusson 23500 FELLETIN",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence situ&eacute;e dans l&#39;enceinte du lyc&eacute;e des m&eacute;tiers du b&acirc;timent proposant 38 T1, 17 T1Bis et 6 chambres simples (2 chambres par logement en colocation) Parking gratuit</p>",
+          "location": {
+            "lon": 2.174,
+            "lat": 45.889
+          },
+          "sharedTransports": [],
+          "id": "f6cba354-0820-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Limoges",
+            "id": 19
+          },
+          "medias": [
+            {
+              "src": "f6cba354-0820-11e8-89ed-005056940822/5a7c5d65df17c-IMG_1155.JPG"
+            }
+          ],
+          "label": "R\u00e9sidence de Felletin"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 32.0,
+          "max": 32.0
+        },
+        "label": "Felletin T1Bis seul",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 41500,
+              "max": 41500
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": []
+      },
+      {
+        "code": 93,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 302,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 50,
+              "unitOfMeasure": "metre",
+              "description": "Bus(r\u00e9seau IDELIS) : Ligne 6 (arr\u00eat : Cit\u00e9 universitaire)\r\nLignes 5 et 13 (arr\u00eat : Lyc\u00e9e St John Perse)",
+              "id": "1b786a3c-fd22-11e7-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 29,
+          "uairne": "0640204Z",
+          "address": "12 Avenue du Doyen POPLAWSKI 64000 PAU",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "1b78811b-fd22-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>La r&eacute;sidence universitaire Gaston Phoebus est compos&eacute;e de 4 b&acirc;timents r&eacute;nov&eacute;s situ&eacute;s sur le campus universitaire, dans un parc agr&eacute;able, &agrave; proximit&eacute; des facult&eacute;s et des restaurants universitaires.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;ALS (ALS : allocation logement social)</p>",
+          "location": {
+            "lon": -0.367,
+            "lat": 43.318
+          },
+          "sharedTransports": [
+            {
+              "distance": 50,
+              "unitOfMeasure": "metre",
+              "id": "1b7893fb-fd22-11e7-89ed-005056940822",
+              "sharedTransport": {
+                "name": "V\u00e9lo",
+                "id": "c9e17364-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "id": "149e72b1-fc90-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "149e72b1-fc90-11e7-89ed-005056940822/5aa2ab9f089fc-P1030391.JPG"
+            }
+          ],
+          "label": "GASTON PHOEBUS"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 10.0,
+          "max": 10.0
+        },
+        "label": "CHAMBRE",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 26000,
+              "max": 26000
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "302/62278521c09b1-Chambre_gaston_phoebus_2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 84,
+        "reference": "7",
+        "bedroomCount": 2,
+        "id": 522,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 30,
+              "unitOfMeasure": "metre",
+              "description": "Bus : Ligne 6 (r\u00e9seau T.U.M.)",
+              "id": "e1b10ca6-fd2c-11e7-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 26,
+          "uairne": "0400976U",
+          "address": "Avenue du Commandant CLERE 40000 MONT-DE-MARSAN",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": "La r\u00e9sidence dispose d'un parking privatif.",
+              "id": "e1b124c2-fd2c-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>La r&eacute;sidence universitaire Le V&eacute;lum est situ&eacute;e &agrave; mi-chemin entre le centre ville et le lyc&eacute;e Charles DESPIAU.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement)</p>",
+          "location": {
+            "lon": -0.497,
+            "lat": 43.884
+          },
+          "sharedTransports": [],
+          "id": "27d4c545-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "27d4c545-fc8e-11e7-89ed-005056940822/5a620de1e0710-Le Velum_4.jpg"
+            }
+          ],
+          "label": "LE VELUM"
+        },
+        "bedCount": 2,
+        "adaptedPmr": false,
+        "roomCount": 3,
+        "area": {
+          "min": 29.0,
+          "max": 29.0
+        },
+        "label": "T1BIS",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090b6e0-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Pi\u00e8ce \u00e0 vivre"
+          },
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "house_sharing",
+            "rent": {
+              "min": 24506,
+              "max": 24506
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 2,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "522/648ad830c946b-IMG_20230614_153530_1.jpg",
+            "description": "Bureau"
+          },
+          {
+            "src": "522/648add59c6b9b-IMG_20230614_153934.jpg",
+            "description": "Kitchenette"
+          },
+          {
+            "src": "522/648adf448eda6-IMG_20230614_154439.jpg",
+            "description": "Salle d'eau"
+          },
+          {
+            "src": "522/648addabc54c7-IMG_20230614_154428.jpg",
+            "description": "Salle d'eau"
+          },
+          {
+            "src": "522/648adb1d8c741-IMG_20230614_153953.jpg",
+            "description": "Kitchenette"
+          },
+          {
+            "src": "522/648ad999ac2d2-IMG_20230614_154310.jpg",
+            "description": "Chambre"
+          },
+          {
+            "src": "522/648ad999c0642-IMG_20230614_153545_1.jpg",
+            "description": "Chambre"
+          }
+        ]
+      },
+      {
+        "code": 133,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 3113,
+        "residence": {
+          "publicTransports": [],
+          "code": 40,
+          "uairne": "0800070S",
+          "address": "4 All\u00e9e Marguerite YOURCENAR 02100 SAINT QUENTIN",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Parking privatif",
+                "id": "bd9a3ace-1b9e-11e8-89ed-005056940822"
+              },
+              "description": "payant",
+              "id": "b426f3d1-fff0-48cf-8092-1a7dbc97c9d6"
+            }
+          ],
+          "description": "<p>r&eacute;sidence neuve qui ouvre le 01/09/2025 compos&eacute;e de 43 studios dont 4 PMR</p>",
+          "location": {
+            "lon": 3.304,
+            "lat": 49.836
+          },
+          "sharedTransports": [],
+          "id": "613a4406-100e-466c-8ab1-3d4503317a62",
+          "entity": {
+            "name": "Amiens-Picardie",
+            "id": 9
+          },
+          "medias": [
+            {
+              "src": "613a4406-100e-466c-8ab1-3d4503317a62/686fc8a6a4bb7-image architecte yourcenar 240625.png"
+            }
+          ],
+          "label": "RESIDENCE MARGUERITE YOURCENAR"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 19.22,
+          "max": 22.41
+        },
+        "label": "STUDIO",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 38112,
+              "max": 42596
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "3113/686fcceeb10fc-1000000484.jpg",
+            "description": "chambre"
+          },
+          {
+            "src": "3113/686fcceeb7335-1000000485.jpg",
+            "description": "placard et chambre"
+          },
+          {
+            "src": "3113/686fcdeccdc7f-1000000482.jpg",
+            "description": "sdb"
+          },
+          {
+            "src": "3113/686fcceebe2ae-1000000471.jpg",
+            "description": "cuisine"
+          }
+        ]
+      },
+      {
+        "code": 108,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 494,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 5,
+              "unitOfMeasure": "metre",
+              "description": "Bus (r\u00e9seau IDELIS) : Ligne 6 arr\u00eat : Coll\u00e8ge Clermont",
+              "id": "8848a42a-fd28-11e7-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 25,
+          "uairne": "0641889F",
+          "address": "16 RUE DES FRERES CAMORS 64000 PAU",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": "La r\u00e9sidence dispose d'un large parking privatif.",
+              "id": "8848bbec-fd28-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>La r&eacute;sidence universitaire Le Th&eacute;l&egrave;me est situ&eacute;e pr&eacute;s du domaine universitaire et &agrave; proximit&eacute; du restaurant universitaire Cap sud ouvert le soir.</p>\r\n\r\n<p>La r&eacute;sidence est &eacute;quip&eacute;e d&rsquo;un ascenseur.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement)</p>",
+          "location": {
+            "lon": -0.369,
+            "lat": 43.312
+          },
+          "sharedTransports": [
+            {
+              "distance": 500,
+              "unitOfMeasure": "metre",
+              "id": "8848cf7a-fd28-11e7-89ed-005056940822",
+              "sharedTransport": {
+                "name": "V\u00e9lo",
+                "id": "c9e17364-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "id": "275ffd60-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "275ffd60-fc8e-11e7-89ed-005056940822/5a6206a0ed8f7-Le Th\u00e9l\u00e8me_1.jpg"
+            }
+          ],
+          "label": "LE THELEME"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 19.0,
+          "max": 19.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 36069,
+              "max": 36069
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "494/622787c64800a-T1_thelem_1.jpg",
+            "description": null
+          },
+          {
+            "src": "494/628365c412aef-T1_thelem_2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 29,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1477,
+        "residence": {
+          "publicTransports": [],
+          "code": 12,
+          "uairne": "008003DU",
+          "address": "6 Rue Jules Rich\u00e9 08000 CHARLEVILLE MEZIERES",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain payant",
+                "id": "06b12f90-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "09a8dc6e-17e3-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>L&#39;abonnement et la consommation d&#39;&eacute;lectricit&eacute; ne sont pas inclus dans le loyer.</p>",
+          "location": {
+            "lon": 4.719,
+            "lat": 49.776
+          },
+          "sharedTransports": [],
+          "id": "75660880-050d-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Reims",
+            "id": 20
+          },
+          "medias": [
+            {
+              "src": "75660880-050d-11e8-89ed-005056940822/5a8fca19dc3c2-JBC-facade.jpg"
+            }
+          ],
+          "label": "JB CLEMENT"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 19.0,
+          "max": 19.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 36700,
+              "max": 36700
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1477/5a8fca51cc31f-JBC-studio.jpg",
+            "description": null
+          },
+          {
+            "src": "1477/5a8fca5218569-JBC-studio2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 36,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1567,
+        "residence": {
+          "publicTransports": [],
+          "code": 10,
+          "uairne": "0081085L",
+          "address": "38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES",
+          "parkings": [],
+          "description": "<p>L&#39;abonnement et la consommation d&#39;&eacute;lectricit&eacute; ne sont pas inclus dans le loyer.</p>\r\n\r\n<p>Restaurant Universitaire sur place Parking R&eacute;sidence gratuit</p>",
+          "location": {
+            "lon": 4.712,
+            "lat": 49.773
+          },
+          "sharedTransports": [],
+          "id": "77718a7b-050d-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Reims",
+            "id": 20
+          },
+          "medias": [
+            {
+              "src": "77718a7b-050d-11e8-89ed-005056940822/5a8fc97b6c556-MDE-facade.jpg"
+            }
+          ],
+          "label": "MAISON DES ETUDIANTS"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 37000,
+              "max": 37000
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1567/5a8fc99e5ba6e-MDE-studio.jpg",
+            "description": null
+          },
+          {
+            "src": "1567/5a8fc99ea7072-MDE-studio2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 100,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 25,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 10,
+              "unitOfMeasure": "metre",
+              "description": "Bus (r\u00e9seau IDELIS) :\r\nLignes 5 et 13 (arr\u00eat : Lyc\u00e9e St John Perse),\r\nLigne 6 (arr\u00eat : Cit\u00e9 U)\r\nLignes 2, 12, 20,21 (arr\u00eat : Monge)",
+              "id": "cf4833bc-fd38-11e7-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 22,
+          "uairne": "0641809U",
+          "address": "7 RUE SAINT JOHN PERSE 64000 PAU",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": "La r\u00e9sidence dispose d'un parking.",
+              "id": "cf484c6b-fd38-11e7-89ed-005056940822"
+            }
+          ],
+          "description": "<p>La r&eacute;sidence universitaire Cl&eacute; des Champs est compos&eacute;e de 2 b&acirc;timents de 4 &eacute;tages &eacute;quip&eacute;s d&rsquo;un ascenseur.</p>\r\n\r\n<p>Elle est situ&eacute;e &agrave; proximit&eacute; des facult&eacute;s de Lettres et de Droit, de l&rsquo;ESC PAU et d&rsquo;une brasserie universitaire.</p>\r\n\r\n<p>A 3 minutes &agrave; pied d&#39;un cin&eacute;ma et d&#39;un vaste centre commercial.</p>\r\n\r\n<p>Logement b&eacute;n&eacute;ficiant de l&rsquo;APL (APL : aide personnalis&eacute;e au logement).</p>",
+          "location": {
+            "lon": -0.366,
+            "lat": 43.317
+          },
+          "sharedTransports": [
+            {
+              "distance": 10,
+              "unitOfMeasure": "metre",
+              "id": "cf486056-fd38-11e7-89ed-005056940822",
+              "sharedTransport": {
+                "name": "V\u00e9lo",
+                "id": "c9e17364-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "id": "f5ce9d66-fc8e-11e7-89ed-005056940822",
+          "entity": {
+            "name": "Bordeaux",
+            "id": 4
+          },
+          "medias": [
+            {
+              "src": "f5ce9d66-fc8e-11e7-89ed-005056940822/5a6221c18c184-Cl\u00e9 de Champs_3.jpg"
+            }
+          ],
+          "label": "CLE DES CHAMPS"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 14.0,
+          "max": 14.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 35227,
+              "max": 35227
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "25/660bf7ac07aee-T1 LIT EN HAUT CC.JPG",
+            "description": null
+          },
+          {
+            "src": "25/6604339a2f9b0-T1 BUREAU.JPG",
+            "description": null
+          },
+          {
+            "src": "25/660bf9ae5abde-T1CC SALLE DE BAIN.JPG",
+            "description": null
+          },
+          {
+            "src": "25/6604349d1f163-T1.JPG",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 198,
+        "reference": "6",
+        "bedroomCount": 2,
+        "id": 2993,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 3,
+              "unitOfMeasure": "on_foot",
+              "description": null,
+              "id": "b5f524ff-0a77-11e8-89ed-005056940822",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 18,
+          "uairne": "0573475T",
+          "address": "2 rue du G\u00e9n\u00e9ral Delestraint CS 15250 57076 METZ CEDEX 03",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Parking privatif",
+                "id": "bd9a3ace-1b9e-11e8-89ed-005056940822"
+              },
+              "description": null,
+              "id": "85343764-0daf-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>D&eacute;couvrez la r&eacute;sidence universitaire Bridoux, situ&eacute;e dans le secteur de Metz Est qui abrite les facult&eacute;s des Sciences et de STAPS. Avec ses 317 logements, cette r&eacute;sidence offre un cadre pratique et confortable pour les &eacute;tudiants, &agrave; 15 minutes du centre-ville.</p>\r\n\r\n<p>L&#39;un des avantages de la r&eacute;sidence Bridoux est son emplacement &agrave; proximit&eacute; imm&eacute;diate du Resto U&#39; Bridoux, o&ugrave; vous pourrez profiter de repas &eacute;quilibr&eacute;s. Vous b&eacute;n&eacute;ficierez &eacute;galement d&#39;&eacute;quipements modernes et d&#39;espaces communs conviviaux pour rencontrer d&#39;autres &eacute;tudiants. Notre &eacute;quipe est &eacute;galement disponible pour r&eacute;pondre &agrave; vos besoins et rendre votre s&eacute;jour agr&eacute;able.</p>\r\n\r\n<p>En choisissant la r&eacute;sidence universitaire Bridoux, vous profiterez d&rsquo;un cadre historique au sein de cette ancienne caserne militaire enti&egrave;rement r&eacute;am&eacute;nag&eacute;e et modernis&eacute;e pour la vie &eacute;tudiante.<br />\r\nR&eacute;servez d&egrave;s maintenant votre logement &agrave; la r&eacute;sidence universitaire Bridoux et profitez d&#39;un environnement pratique et confortable dans un lieu atypique, &agrave; l&rsquo;architecture remarquable.&nbsp;</p>\r\n\r\n<p><strong>Services :</strong><br />\r\nAccessible PMR / Ascenseur / Distributeur protections p&eacute;riodiques / Douche individuelle / Garages &agrave; v&eacute;los / Internet et Wifi / Kitchenette individuelle / Laverie / Parking / Restauration sur place / Salle de sport / Surveillance et s&eacute;curit&eacute;</p>\r\n\r\n<p><strong>Parking &agrave; ciel ouvert :</strong><br />\r\n5 &euro; par mois selon les possibilit&eacute;s de mise en &oelig;uvre de la r&eacute;sidence.</p>",
+          "location": {
+            "lon": 6.214,
+            "lat": 49.115
+          },
+          "sharedTransports": [],
+          "id": "11205b58-0a75-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Lorraine",
+            "id": 28
+          },
+          "medias": [
+            {
+              "src": "11205b58-0a75-11e8-89ed-005056940822/647d9552d2174-Bridoux1.jpg"
+            },
+            {
+              "src": "11205b58-0a75-11e8-89ed-005056940822/647d9552dbb89-Bridoux2.jpg"
+            },
+            {
+              "src": "11205b58-0a75-11e8-89ed-005056940822/647d9552e7a96-Bridoux3.jpg"
+            }
+          ],
+          "label": "CU BRIDOUX"
+        },
+        "bedCount": 2,
+        "adaptedPmr": false,
+        "roomCount": 2,
+        "area": {
+          "min": 50.0,
+          "max": 50.0
+        },
+        "label": "T2bis 1P",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 55807,
+              "max": 55807
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 2,
+            "type": "mobile"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": []
+      },
+      {
+        "code": 24,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1458,
+        "residence": {
+          "publicTransports": [],
+          "code": 13,
+          "uairne": "7200002G",
+          "address": "22 avenue Jean Nicoli, BP 55, 20250 CORTE",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence situ&eacute;e sur le Campus Grimaldi</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Aide Personnalis&eacute;e au Logement (APL)<strong> =&gt; Attention : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>",
+          "location": {
+            "lon": 9.152,
+            "lat": 42.3
+          },
+          "sharedTransports": [],
+          "id": "50c905af-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "50c905af-1227-11e8-89ed-005056940822/626feedf70c4e-Pascal Martin.jpg"
+            },
+            {
+              "src": "50c905af-1227-11e8-89ed-005056940822/626feedf76cac-terrain de p\u00e9tanque 2.jpg"
+            }
+          ],
+          "label": "Residence Pascal MARTIN"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 16.0,
+          "max": 18.0
+        },
+        "label": "G024 STUDIO",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 42700,
+              "max": 42700
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1458/627136c2f237f-IMG_6596.jpg",
+            "description": "Coin cuisine"
+          },
+          {
+            "src": "1458/627136d091434-IMG_7001.jpg",
+            "description": "Cabine tri-fonctions"
+          },
+          {
+            "src": "1458/627136f293578-IMG_6584.jpg",
+            "description": "Coin cuisine"
+          }
+        ]
+      },
+      {
+        "code": 27,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1521,
+        "residence": {
+          "publicTransports": [],
+          "code": 9,
+          "uairne": "7200001B",
+          "address": "22, avenue Jean NICOLI, BP 55, 20250 CORTE",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence situ&eacute;e sur le Campus Mariani. A proximit&eacute; de la facult&eacute; de Droit et de Lettres, du Restaurant universitaire et de la Caf&eacute;t&eacute;ria.</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Allocation de Logement Social (ALS).</p>\r\n\r\n<p><strong>NB : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>",
+          "location": {
+            "lon": 9.155442,
+            "lat": 42.305046
+          },
+          "sharedTransports": [],
+          "id": "513813b0-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "513813b0-1227-11e8-89ed-005056940822/5a8aeff781e1e-DSCF2470.jpg"
+            },
+            {
+              "src": "513813b0-1227-11e8-89ed-005056940822/626fd9fb16e60-DSC_0042 (2).JPG"
+            },
+            {
+              "src": "513813b0-1227-11e8-89ed-005056940822/5ea1534493875-Salle de sport.jpg"
+            },
+            {
+              "src": "513813b0-1227-11e8-89ed-005056940822/5ea05b010fbb2-Hall entr\u00e9e.JPG"
+            },
+            {
+              "src": "513813b0-1227-11e8-89ed-005056940822/6271395be7151-DSC_0046 (2).JPG"
+            }
+          ],
+          "label": "Residence Pascal Paoli 1"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 12.0,
+          "max": 12.0
+        },
+        "label": "PP1 CHAMBRE RENOVEE",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 23500,
+              "max": 23500
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1521/6271372206736-13.jpg",
+            "description": "Coin nuit et bureau"
+          },
+          {
+            "src": "1521/62713738d977a-12.jpg",
+            "description": "Cabine tri-fonctions"
+          }
+        ]
+      },
+      {
+        "code": 11,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1565,
+        "residence": {
+          "publicTransports": [],
+          "code": 1,
+          "uairne": "7200004P",
+          "address": "22 avenue Jean Nicoli, BP 55, 20250 CORTE",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence &agrave; mi-distance des deux campus (Mariani et Grimaldi). Situ&eacute;e &agrave; proximit&eacute; des installations sportives de la ville, des restaurants universitaires et des caf&eacute;ta&eacute;ria.</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Aide Personnalis&eacute;e au Logement (APL)<strong> =&gt; Attention : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>",
+          "location": {
+            "lon": 9.154,
+            "lat": 42.304
+          },
+          "sharedTransports": [],
+          "id": "5216696b-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "5216696b-1227-11e8-89ed-005056940822/5a8af602b50ec-DSCF2523.jpg"
+            },
+            {
+              "src": "5216696b-1227-11e8-89ed-005056940822/627139a9205aa-1.jpg"
+            },
+            {
+              "src": "5216696b-1227-11e8-89ed-005056940822/627139b361d9b-barbecue Casanova.jpg"
+            },
+            {
+              "src": "5216696b-1227-11e8-89ed-005056940822/627139ca80431-CAFET A CASANOVA 2.JPG"
+            }
+          ],
+          "label": "Residence Antoine CASANOVA"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 20.0
+        },
+        "label": "POR STUDIO",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d091b03f-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Balcon"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 42700,
+              "max": 42700
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1565/626feab28ee5c-5.jpg",
+            "description": "Coin nuit et bureau. Il est \u00e0 noter que les dimensions du lit d\u00e9pendent de la configuration du logement (entre 90 et 120 cm)."
+          },
+          {
+            "src": "1565/5ea1550013e14-Espace cuisine.jpg",
+            "description": "Espace cuisine"
+          },
+          {
+            "src": "1565/5e68f2769b313-Porette SDB.jpg",
+            "description": "Salle d'eau"
+          },
+          {
+            "src": "1565/5e68f276b6fb0-Porrette Terrasse.jpg",
+            "description": "Terrasse"
+          }
+        ]
+      },
+      {
+        "code": 8,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 718,
+        "residence": {
+          "publicTransports": [],
+          "code": 5,
+          "uairne": "7200003G",
+          "address": "22 avenue Jean Nicoli, BP 55, 20250 CORTE",
+          "parkings": [
+            {
+              "parking": null,
+              "description": null,
+              "id": "ffa19260-122b-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>R&eacute;sidence situ&eacute;e sur le Campus Grimaldi.</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Allocation de Logement Social (ALS).</p>\r\n\r\n<p><strong>NB : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>\r\n\r\n<p>&nbsp;</p>",
+          "location": {
+            "lon": 9.152,
+            "lat": 42.299
+          },
+          "sharedTransports": [],
+          "id": "4f7afc7f-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "4f7afc7f-1227-11e8-89ed-005056940822/5cb9ea196dea6-G23.jpg"
+            },
+            {
+              "src": "4f7afc7f-1227-11e8-89ed-005056940822/62713902bba57-XXX.jpg"
+            },
+            {
+              "src": "4f7afc7f-1227-11e8-89ed-005056940822/627139100b4af-XXX1.jpg"
+            }
+          ],
+          "label": "Residence Christophe GARELLI"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 16.0,
+          "max": 18.0
+        },
+        "label": "G023 STUDIO",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 39100,
+              "max": 39100
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "718/626fdc6d0b7b7-IMG_6471.jpg",
+            "description": "Coin bureau et cuisine"
+          },
+          {
+            "src": "718/626fdc7f086bf-IMG_6484.jpg",
+            "description": "Espace de vie"
+          },
+          {
+            "src": "718/626fef1190cdf-SDB PM et CG.jpg",
+            "description": "Cabine tri-fonctions"
+          }
+        ]
+      },
+      {
+        "code": 41,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1995,
+        "residence": {
+          "publicTransports": [],
+          "code": 2,
+          "uairne": "7200005G",
+          "address": "22 avenue Jean Nicoli, BP 55, 20250 CORTE",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence situ&eacute;e sur le campus Grimaldi.</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Allocation au Logement &agrave; caract&egrave;re Social (ALS).</p>\r\n\r\n<p><strong>NB : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>",
+          "location": {
+            "lon": 9.152,
+            "lat": 42.3
+          },
+          "sharedTransports": [],
+          "id": "4febd47d-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "4febd47d-1227-11e8-89ed-005056940822/626fda8aecc19-DSCF6418.JPG"
+            },
+            {
+              "src": "4febd47d-1227-11e8-89ed-005056940822/626fdab246b96-1.jpg"
+            },
+            {
+              "src": "4febd47d-1227-11e8-89ed-005056940822/62713815de587-IMG_6684.jpg"
+            }
+          ],
+          "label": "Residence Pierrette Grimaldi"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 14.0,
+          "max": 17.9
+        },
+        "label": "GRIMALDI CHAMBRE RENOVEE=> a 14 m2",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 26700,
+              "max": 26700
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1995/626fef5b405f1-CH 14 M\u00b2 3.jpg",
+            "description": "Entr\u00e9e"
+          },
+          {
+            "src": "1995/626fef5b47304-CH 14 M\u00b2 2.jpg",
+            "description": "Espace de vie"
+          },
+          {
+            "src": "1995/626fef5b4bde1-CH 14M\u00b2.jpg",
+            "description": null
+          },
+          {
+            "src": "1995/626fef5b5545f-SDB CH 14M\u00b2.jpg",
+            "description": "Cabine tri-fonctions"
+          }
+        ]
+      },
+      {
+        "code": 46,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2789,
+        "residence": {
+          "publicTransports": [],
+          "code": 3,
+          "uairne": "7200004G",
+          "address": "22 avenue Jean Nicoli, BP 55, 20250 CORTE",
+          "parkings": [],
+          "description": "<p>R&eacute;sidence situ&eacute;e sur le campus Grimaldi.</p>\r\n\r\n<p>Possibilit&eacute; d&#39;Aide Personnalis&eacute;e au Logement (APL).</p>\r\n\r\n<p><strong>NB : si moins de 20 ans &agrave; la condition de ne pas &ecirc;tre &agrave; charge sur les prestations CAF des parents </strong></p>",
+          "location": {
+            "lon": 9.152,
+            "lat": 42.299
+          },
+          "sharedTransports": [],
+          "id": "5059e524-1227-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Corse",
+            "id": 12
+          },
+          "medias": [
+            {
+              "src": "5059e524-1227-11e8-89ed-005056940822/627139f5a2505-planche.PNG"
+            },
+            {
+              "src": "5059e524-1227-11e8-89ed-005056940822/627139f5b0f3d-hall.jpg"
+            },
+            {
+              "src": "5059e524-1227-11e8-89ed-005056940822/627139f5b66e2-hall 2.jpg"
+            }
+          ],
+          "label": "Residence Farrandu ETTORI"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 14.5,
+          "max": 17.0
+        },
+        "label": "G020 STUDIO",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 38300,
+              "max": 38300
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "2789/6271376c72db1-studio.jpg",
+            "description": "Coin nuit"
+          },
+          {
+            "src": "2789/6271376c8b7e2-SDB CH 14M\u00b2.jpg",
+            "description": "Salle de bain"
+          }
+        ]
+      },
+      {
+        "code": 180,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 2688,
+        "residence": {
+          "publicTransports": [
+            {
+              "distance": 3,
+              "unitOfMeasure": "on_foot",
+              "description": "TRAMWAY LIGNE A et C - Arr\u00eat Chavant",
+              "id": "6465bfc6-f5bf-11eb-b5ad-005056941f86",
+              "publicTransport": {
+                "name": "Tramway",
+                "id": "001ed50f-fa97-11e7-89ed-005056940822"
+              }
+            },
+            {
+              "distance": 5,
+              "unitOfMeasure": "on_foot",
+              "description": null,
+              "id": "6465c91b-f5bf-11eb-b5ad-005056941f86",
+              "publicTransport": {
+                "name": "Bus",
+                "id": "057fbe77-fa97-11e7-89ed-005056940822"
+              }
+            }
+          ],
+          "code": 42,
+          "uairne": "0381829G",
+          "address": "6 place Pasteur - 38100 GRENOBLE",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain payant",
+                "id": "06b12f90-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "6465d886-f5bf-11eb-b5ad-005056941f86"
+            }
+          ],
+          "description": "<p>La r&eacute;sidence Galil&eacute;e situ&eacute;e dans le centre ville de Grenoble est destin&eacute;e &agrave; accueillir des &eacute;tudiants doctorants.</p>\r\n\r\n<p>Elle se compose de 58 studios individuels enti&egrave;rement &eacute;quip&eacute;s.</p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">La station de tramway (Chavant) lignes A et C, &agrave; 2mn de la r&eacute;sidence, permet de relier les diff&eacute;rents &eacute;tablissements d&#39;enseignement de Grenoble en 20 mn.( Domaine universitaire &agrave; St Martin d&#39;H&egrave;res, Ecole d&#39;architecture Grenoble Sud, IGA, IUT).</p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">A proximit&eacute; de tous commerces, cin&eacute;ma, gare routi&egrave;re et gare SNCF.</p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">Restaurant universitaire, caf&eacute;t&eacute;ria, laverie payante, parking &agrave; v&eacute;los.</p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\"><a href=\"https://www.crous-grenoble.fr/logement-etudiant-crous/logement-enseignants-chercheurs-doctorants/\">https://www.crous-grenoble.fr/logement-etudiant-crous/logement-enseignants-chercheurs-doctorants/</a></p>\r\n\r\n<p style=\"margin-left:0cm; margin-right:0cm\">&nbsp;</p>",
+          "location": {
+            "lon": 5.731,
+            "lat": 45.184
+          },
+          "sharedTransports": [],
+          "id": "85b80bc3-eae0-11eb-b5ad-005056941f86",
+          "entity": {
+            "name": "Grenoble",
+            "id": 17
+          },
+          "medias": [],
+          "label": "GALILEE"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 16.1,
+          "max": 29.8
+        },
+        "label": "Galil\u00e9e Studio",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          },
+          {
+            "id": "d0916c95-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Micro-onde"
+          }
+        ],
+        "bookingData": {
+          "amount": 35000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 51700,
+              "max": 51700
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": 6,
+          "max": 8
+        },
+        "medias": []
+      },
+      {
+        "code": 9,
+        "reference": "3",
+        "bedroomCount": 1,
+        "id": 1224,
+        "residence": {
+          "publicTransports": [],
+          "code": 11,
+          "uairne": "0081094W",
+          "address": "12 place de l infanterie de marine 08140 BAZEILLES",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "ae34f1f4-1626-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>L&#39;abonnement et la consommation d&#39;&eacute;lectricit&eacute; ne sont pas inclus dans le loyer.</p>\r\n\r\n<p>WiFi (SmartCampus &amp; Eduroam)</p>",
+          "location": {
+            "lon": 4.978,
+            "lat": 49.675
+          },
+          "sharedTransports": [],
+          "id": "70db76df-050d-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Reims",
+            "id": 20
+          },
+          "medias": [
+            {
+              "src": "70db76df-050d-11e8-89ed-005056940822/5a8fca7dbf412-Bazeilles-facade.jpg"
+            }
+          ],
+          "label": "BAZEILLES"
+        },
+        "bedCount": 2,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 21.0,
+          "max": 21.0
+        },
+        "label": "T1Bis",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 27500,
+              "max": 27500
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 2,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1224/5a8fcacba0aa8-Bazeilles-studio.jpg",
+            "description": null
+          },
+          {
+            "src": "1224/5a8fcacbde923-Bazeilles-studio2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "code": 1,
+        "reference": "2",
+        "bedroomCount": 1,
+        "id": 1211,
+        "residence": {
+          "publicTransports": [],
+          "code": 11,
+          "uairne": "0081094W",
+          "address": "12 place de l infanterie de marine 08140 BAZEILLES",
+          "parkings": [
+            {
+              "parking": {
+                "name": "Stationnement urbain gratuit",
+                "id": "10402a4e-fa98-11e7-89ed-005056940822"
+              },
+              "description": null,
+              "id": "ae34f1f4-1626-11e8-89ed-005056940822"
+            }
+          ],
+          "description": "<p>L&#39;abonnement et la consommation d&#39;&eacute;lectricit&eacute; ne sont pas inclus dans le loyer.</p>\r\n\r\n<p>WiFi (SmartCampus &amp; Eduroam)</p>",
+          "location": {
+            "lon": 4.978,
+            "lat": 49.675
+          },
+          "sharedTransports": [],
+          "id": "70db76df-050d-11e8-89ed-005056940822",
+          "entity": {
+            "name": "Reims",
+            "id": 20
+          },
+          "medias": [
+            {
+              "src": "70db76df-050d-11e8-89ed-005056940822/5a8fca7dbf412-Bazeilles-facade.jpg"
+            }
+          ],
+          "label": "BAZEILLES"
+        },
+        "bedCount": 1,
+        "adaptedPmr": false,
+        "roomCount": 1,
+        "area": {
+          "min": 18.0,
+          "max": 18.0
+        },
+        "label": "T1",
+        "indicators": [
+          {
+            "tool_id": 22,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 37,
+            "highDemand": false,
+            "lowStock": false
+          },
+          {
+            "tool_id": 41,
+            "highDemand": false,
+            "lowStock": false
+          }
+        ],
+        "equipments": [
+          {
+            "id": "d090e186-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "WC"
+          },
+          {
+            "id": "d0910683-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Douche"
+          },
+          {
+            "id": "d0912861-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Evier + plaque"
+          },
+          {
+            "id": "d0914ae7-fa0e-11e7-89ed-005056940822",
+            "category": "B\u00e2timent",
+            "label": "Frigo"
+          }
+        ],
+        "bookingData": {
+          "amount": 10000
+        },
+        "highDemand": false,
+        "lowStock": false,
+        "occupationModes": [
+          {
+            "type": "alone",
+            "rent": {
+              "min": 33800,
+              "max": 33800
+            }
+          }
+        ],
+        "available": true,
+        "beds": [
+          {
+            "count": 1,
+            "type": "simple"
+          }
+        ],
+        "inUnavailabilityPeriod": false,
+        "unavailabilityMessage": null,
+        "specialConditions": null,
+        "description": null,
+        "studyLevel": {
+          "min": null,
+          "max": null
+        },
+        "medias": [
+          {
+            "src": "1211/5a8fcab2d7b5c-Bazeilles-studio.jpg",
+            "description": null
+          },
+          {
+            "src": "1211/5a8fcab326db1-Bazeilles-studio2.jpg",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  "aggregations": {
+    "occupationModes": {
+      "alone": 35,
+      "couple": 2,
+      "house_sharing": 6
+    },
+    "equipmentCategories": [
+      {
+        "label": "B\u00e2timent",
+        "equipments": [
+          {
+            "label": "Frigo",
+            "count": 34
+          },
+          {
+            "label": "Douche",
+            "count": 33
+          },
+          {
+            "label": "WC",
+            "count": 33
+          },
+          {
+            "label": "Evier + plaque",
+            "count": 28
+          },
+          {
+            "label": "Micro-onde",
+            "count": 9
+          },
+          {
+            "label": "Balcon",
+            "count": 2
+          },
+          {
+            "label": "Pi\u00e8ce \u00e0 vivre",
+            "count": 2
+          },
+          {
+            "label": "Duplex",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "rent": [
+      {
+        "amount": 0.0,
+        "count": 0
+      },
+      {
+        "amount": 1000.0,
+        "count": 0
+      },
+      {
+        "amount": 2000.0,
+        "count": 0
+      },
+      {
+        "amount": 3000.0,
+        "count": 0
+      },
+      {
+        "amount": 4000.0,
+        "count": 0
+      },
+      {
+        "amount": 5000.0,
+        "count": 0
+      },
+      {
+        "amount": 6000.0,
+        "count": 0
+      },
+      {
+        "amount": 7000.0,
+        "count": 0
+      },
+      {
+        "amount": 8000.0,
+        "count": 0
+      },
+      {
+        "amount": 9000.0,
+        "count": 0
+      },
+      {
+        "amount": 10000.0,
+        "count": 0
+      },
+      {
+        "amount": 11000.0,
+        "count": 0
+      },
+      {
+        "amount": 12000.0,
+        "count": 0
+      },
+      {
+        "amount": 13000.0,
+        "count": 0
+      },
+      {
+        "amount": 14000.0,
+        "count": 0
+      },
+      {
+        "amount": 15000.0,
+        "count": 0
+      },
+      {
+        "amount": 16000.0,
+        "count": 0
+      },
+      {
+        "amount": 17000.0,
+        "count": 3
+      },
+      {
+        "amount": 18000.0,
+        "count": 0
+      },
+      {
+        "amount": 19000.0,
+        "count": 0
+      },
+      {
+        "amount": 20000.0,
+        "count": 3
+      },
+      {
+        "amount": 21000.0,
+        "count": 0
+      },
+      {
+        "amount": 22000.0,
+        "count": 0
+      },
+      {
+        "amount": 23000.0,
+        "count": 6
+      },
+      {
+        "amount": 24000.0,
+        "count": 3
+      },
+      {
+        "amount": 25000.0,
+        "count": 0
+      },
+      {
+        "amount": 26000.0,
+        "count": 6
+      },
+      {
+        "amount": 27000.0,
+        "count": 3
+      },
+      {
+        "amount": 28000.0,
+        "count": 0
+      },
+      {
+        "amount": 29000.0,
+        "count": 0
+      },
+      {
+        "amount": 30000.0,
+        "count": 3
+      },
+      {
+        "amount": 31000.0,
+        "count": 5
+      },
+      {
+        "amount": 32000.0,
+        "count": 6
+      },
+      {
+        "amount": 33000.0,
+        "count": 3
+      },
+      {
+        "amount": 34000.0,
+        "count": 3
+      },
+      {
+        "amount": 35000.0,
+        "count": 3
+      },
+      {
+        "amount": 36000.0,
+        "count": 6
+      },
+      {
+        "amount": 37000.0,
+        "count": 6
+      },
+      {
+        "amount": 38000.0,
+        "count": 9
+      },
+      {
+        "amount": 39000.0,
+        "count": 9
+      },
+      {
+        "amount": 40000.0,
+        "count": 3
+      },
+      {
+        "amount": 41000.0,
+        "count": 9
+      },
+      {
+        "amount": 42000.0,
+        "count": 9
+      },
+      {
+        "amount": 43000.0,
+        "count": 0
+      },
+      {
+        "amount": 44000.0,
+        "count": 0
+      },
+      {
+        "amount": 45000.0,
+        "count": 0
+      },
+      {
+        "amount": 46000.0,
+        "count": 0
+      },
+      {
+        "amount": 47000.0,
+        "count": 0
+      },
+      {
+        "amount": 48000.0,
+        "count": 0
+      },
+      {
+        "amount": 49000.0,
+        "count": 0
+      },
+      {
+        "amount": 50000.0,
+        "count": 0
+      },
+      {
+        "amount": 51000.0,
+        "count": 3
+      },
+      {
+        "amount": 52000.0,
+        "count": 0
+      },
+      {
+        "amount": 53000.0,
+        "count": 0
+      },
+      {
+        "amount": 54000.0,
+        "count": 0
+      },
+      {
+        "amount": 55000.0,
+        "count": 3
+      },
+      {
+        "amount": 56000.0,
+        "count": 0
+      },
+      {
+        "amount": 57000.0,
+        "count": 0
+      },
+      {
+        "amount": 58000.0,
+        "count": 0
+      },
+      {
+        "amount": 59000.0,
+        "count": 0
+      },
+      {
+        "amount": 60000.0,
+        "count": 0
+      },
+      {
+        "amount": 61000.0,
+        "count": 0
+      },
+      {
+        "amount": 62000.0,
+        "count": 1
+      },
+      {
+        "amount": 63000.0,
+        "count": 0
+      },
+      {
+        "amount": 64000.0,
+        "count": 0
+      },
+      {
+        "amount": 65000.0,
+        "count": 0
+      },
+      {
+        "amount": 66000.0,
+        "count": 0
+      },
+      {
+        "amount": 67000.0,
+        "count": 0
+      },
+      {
+        "amount": 68000.0,
+        "count": 0
+      },
+      {
+        "amount": 69000.0,
+        "count": 0
+      },
+      {
+        "amount": 70000.0,
+        "count": 0
+      },
+      {
+        "amount": 71000.0,
+        "count": 0
+      },
+      {
+        "amount": 72000.0,
+        "count": 0
+      },
+      {
+        "amount": 73000.0,
+        "count": 0
+      },
+      {
+        "amount": 74000.0,
+        "count": 0
+      },
+      {
+        "amount": 75000.0,
+        "count": 0
+      },
+      {
+        "amount": 76000.0,
+        "count": 0
+      },
+      {
+        "amount": 77000.0,
+        "count": 0
+      },
+      {
+        "amount": 78000.0,
+        "count": 0
+      },
+      {
+        "amount": 79000.0,
+        "count": 0
+      },
+      {
+        "amount": 80000.0,
+        "count": 0
+      },
+      {
+        "amount": 81000.0,
+        "count": 0
+      },
+      {
+        "amount": 82000.0,
+        "count": 0
+      },
+      {
+        "amount": 83000.0,
+        "count": 0
+      },
+      {
+        "amount": 84000.0,
+        "count": 0
+      },
+      {
+        "amount": 85000.0,
+        "count": 0
+      },
+      {
+        "amount": 86000.0,
+        "count": 0
+      },
+      {
+        "amount": 87000.0,
+        "count": 0
+      },
+      {
+        "amount": 88000.0,
+        "count": 0
+      },
+      {
+        "amount": 89000.0,
+        "count": 0
+      },
+      {
+        "amount": 90000.0,
+        "count": 0
+      },
+      {
+        "amount": 91000.0,
+        "count": 0
+      },
+      {
+        "amount": 92000.0,
+        "count": 0
+      },
+      {
+        "amount": 93000.0,
+        "count": 0
+      },
+      {
+        "amount": 94000.0,
+        "count": 0
+      },
+      {
+        "amount": 95000.0,
+        "count": 0
+      },
+      {
+        "amount": 96000.0,
+        "count": 0
+      },
+      {
+        "amount": 97000.0,
+        "count": 0
+      },
+      {
+        "amount": 98000.0,
+        "count": 0
+      },
+      {
+        "amount": 99000.0,
+        "count": 0
+      },
+      {
+        "amount": 100000.0,
+        "count": 0
+      }
+    ],
+    "markers": [
+      {
+        "count": 9,
+        "location": {
+          "lat": 42.30133842211217,
+          "lon": 9.152937978506088
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 42.30504596605897,
+            "lon": 9.151999996975064
+          },
+          "bottom_right": {
+            "lat": 42.29899997357279,
+            "lon": 9.155441941693425
+          }
+        },
+        "residences": [
+          {
+            "id": "4febd47d-1227-11e8-89ed-005056940822",
+            "label": "Residence Pierrette Grimaldi"
+          },
+          {
+            "id": "4f7afc7f-1227-11e8-89ed-005056940822",
+            "label": "Residence Christophe GARELLI"
+          },
+          {
+            "id": "5059e524-1227-11e8-89ed-005056940822",
+            "label": "Residence Farrandu ETTORI"
+          },
+          {
+            "id": "50c905af-1227-11e8-89ed-005056940822",
+            "label": "Residence Pascal MARTIN"
+          },
+          {
+            "id": "513813b0-1227-11e8-89ed-005056940822",
+            "label": "Residence Pascal Paoli 1"
+          },
+          {
+            "id": "51a6bcaf-1227-11e8-89ed-005056940822",
+            "label": "Residence Pascal Paoli 2"
+          },
+          {
+            "id": "5216696b-1227-11e8-89ed-005056940822",
+            "label": "Residence Antoine CASANOVA"
+          }
+        ]
+      },
+      {
+        "count": 5,
+        "location": {
+          "lat": 49.73399998806417,
+          "lon": 4.822799948975444
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 49.775999961420894,
+            "lon": 4.711999939754605
+          },
+          "bottom_right": {
+            "lat": 49.67499999795109,
+            "lon": 4.977999972179532
+          }
+        },
+        "residences": [
+          {
+            "id": "70db76df-050d-11e8-89ed-005056940822",
+            "label": "BAZEILLES"
+          },
+          {
+            "id": "75660880-050d-11e8-89ed-005056940822",
+            "label": "JB CLEMENT"
+          },
+          {
+            "id": "75eacf40-050d-11e8-89ed-005056940822",
+            "label": "La GRAVIERE"
+          },
+          {
+            "id": "77718a7b-050d-11e8-89ed-005056940822",
+            "label": "MAISON DES ETUDIANTS"
+          }
+        ]
+      },
+      {
+        "count": 5,
+        "location": {
+          "lat": 43.31399997510016,
+          "lon": -0.3666000533849001
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 43.317999970167875,
+            "lon": -0.36900004372000694
+          },
+          "bottom_right": {
+            "lat": 43.304999973624945,
+            "lon": -0.3640000708401203
+          }
+        },
+        "residences": [
+          {
+            "id": "128dc6d7-fc90-11e7-89ed-005056940822",
+            "label": "FRANCIS JAMMES"
+          },
+          {
+            "id": "1395ba2a-fc90-11e7-89ed-005056940822",
+            "label": "GABARD"
+          },
+          {
+            "id": "149e72b1-fc90-11e7-89ed-005056940822",
+            "label": "GASTON PHOEBUS"
+          },
+          {
+            "id": "275ffd60-fc8e-11e7-89ed-005056940822",
+            "label": "LE THELEME"
+          },
+          {
+            "id": "f5ce9d66-fc8e-11e7-89ed-005056940822",
+            "label": "CLE DES CHAMPS"
+          }
+        ]
+      },
+      {
+        "count": 4,
+        "location": {
+          "lat": 43.84424996562302,
+          "lon": -0.6307500530965626
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 43.89699996449053,
+            "lon": -1.040000058710575
+          },
+          "bottom_right": {
+            "lat": 43.69899996556342,
+            "lon": -0.4930000752210617
+          }
+        },
+        "residences": [
+          {
+            "id": "f4e6f6c1-fc8e-11e7-89ed-005056940822",
+            "label": "BOSQUET"
+          },
+          {
+            "id": "27d4c545-fc8e-11e7-89ed-005056940822",
+            "label": "LE VELUM"
+          },
+          {
+            "id": "f38dca0f-fc8e-11e7-89ed-005056940822",
+            "label": "ANDRE MALRAUX"
+          }
+        ]
+      },
+      {
+        "count": 3,
+        "location": {
+          "lat": 44.19233330525458,
+          "lon": 0.6229999288916588
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 44.20699995942414,
+            "lon": 0.620999950915575
+          },
+          "bottom_right": {
+            "lat": 44.1849999781698,
+            "lon": 0.6239999178797007
+          }
+        },
+        "residences": [
+          {
+            "id": "f8ed1110-fc8e-11e7-89ed-005056940822",
+            "label": "CRESSONNIERE"
+          },
+          {
+            "id": "29265dde-fc8e-11e7-89ed-005056940822",
+            "label": "TANNERIES"
+          }
+        ]
+      },
+      {
+        "count": 2,
+        "location": {
+          "lat": 45.18749998882413,
+          "lon": 5.741999968886375
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 45.19099997822195,
+            "lon": 5.730999978259206
+          },
+          "bottom_right": {
+            "lat": 45.183999999426305,
+            "lon": 5.752999959513545
+          }
+        },
+        "residences": [
+          {
+            "id": "85b80bc3-eae0-11eb-b5ad-005056941f86",
+            "label": "GALILEE"
+          },
+          {
+            "id": "e29ffe8e-f6d3-11e7-89ed-005056940822",
+            "label": "OUEST"
+          }
+        ]
+      },
+      {
+        "count": 2,
+        "location": {
+          "lat": 44.38749996945262,
+          "lon": 4.638999933376908
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 44.92999996058643,
+            "lon": 4.352999925613403
+          },
+          "bottom_right": {
+            "lat": 43.84499997831881,
+            "lon": 4.924999941140413
+          }
+        },
+        "residences": [
+          {
+            "id": "9011e44e-0056-11e8-89ed-005056940822",
+            "label": "RESIDENCE TOUR MAGNE"
+          },
+          {
+            "id": "e08859bf-f6d3-11e7-89ed-005056940822",
+            "label": "CLACTON"
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "location": {
+          "lat": 49.11499997600913,
+          "lon": 6.213999940082431
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 49.11499997600913,
+            "lon": 6.213999940082431
+          },
+          "bottom_right": {
+            "lat": 49.11499997600913,
+            "lon": 6.213999940082431
+          }
+        },
+        "residences": [
+          {
+            "id": "11205b58-0a75-11e8-89ed-005056940822",
+            "label": "CU BRIDOUX"
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "location": {
+          "lat": 49.83599997125566,
+          "lon": 3.3039999660104513
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 49.83599997125566,
+            "lon": 3.3039999660104513
+          },
+          "bottom_right": {
+            "lat": 49.83599997125566,
+            "lon": 3.3039999660104513
+          }
+        },
+        "residences": [
+          {
+            "id": "613a4406-100e-466c-8ab1-3d4503317a62",
+            "label": "RESIDENCE MARGUERITE YOURCENAR"
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "location": {
+          "lat": 46.94999998435378,
+          "lon": 2.009999994188547
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 46.94999998435378,
+            "lon": 2.009999994188547
+          },
+          "bottom_right": {
+            "lat": 46.94999998435378,
+            "lon": 2.009999994188547
+          }
+        },
+        "residences": [
+          {
+            "id": "4a6bf8f5-0d87-11e8-89ed-005056940822",
+            "label": "LES COINCHETTES"
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "location": {
+          "lat": 46.5659999800846,
+          "lon": 0.39099994115531445
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 46.5659999800846,
+            "lon": 0.39099994115531445
+          },
+          "bottom_right": {
+            "lat": 46.5659999800846,
+            "lon": 0.39099994115531445
+          }
+        },
+        "residences": [
+          {
+            "id": "55d80783-0821-11e8-89ed-005056940822",
+            "label": "RESIDENCE JULES CAISSO"
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "location": {
+          "lat": 45.88899998925626,
+          "lon": 2.1739999763667583
+        },
+        "bounds": {
+          "top_left": {
+            "lat": 45.88899998925626,
+            "lon": 2.1739999763667583
+          },
+          "bottom_right": {
+            "lat": 45.88899998925626,
+            "lon": 2.1739999763667583
+          }
+        },
+        "residences": [
+          {
+            "id": "f6cba354-0820-11e8-89ed-005056940822",
+            "label": "R\u00e9sidence de Felletin"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "geometry": {
+    "coordinates": [3.0819427, 45.7774551],
+    "type": "Point"
+  },
+  "type": "Feature",
+  "properties": {
+    "osm_id": 110866,
+    "osm_type": "R",
+    "extent": [3.0532561, 45.8183838, 3.1721761, 45.7556941],
+    "country": "France",
+    "osm_key": "place",
+    "osm_value": "city",
+    "name": "Clermont-Ferrand",
+    "state": "Auvergne-Rhône-Alpes"
+  }
+}
