@@ -5,6 +5,7 @@ from utils import send_telegram_message
 
 url = "https://trouverunlogement.lescrous.fr/api/fr/search/41"
 
+
 payload = {
     "idTool": 41,
     "need_aggregation": True,
