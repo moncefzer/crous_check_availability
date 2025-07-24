@@ -13,7 +13,7 @@ $ conda activate crous-scrap
 - Install the required packages
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install -r src/requirements.txt
 ```
 
 - Setup the environment variables
