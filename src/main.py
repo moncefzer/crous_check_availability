@@ -70,17 +70,16 @@ def check_all_crous():
 
 
 def main():
-    last_heartbeat = time.time()
+    # last_heartbeat = time.time()
 
-    while True:
-        check_all_crous()
+    check_all_crous()
 
-        # Check if it's time to send a heartbeat message
-        if time.time() - last_heartbeat >= HEARTBEAT_INTERVAL:
-            send_telegram_message("✅ Le bot fonctionne toujours")
-            last_heartbeat = time.time()
+    # # Check if it's time to send a heartbeat message
+    # if time.time() - last_heartbeat >= HEARTBEAT_INTERVAL:
+    #     send_telegram_message("✅ Le bot fonctionne toujours")
+    #     last_heartbeat = time.time()
 
-        time.sleep(CHECK_INTERVAL)
+    time.sleep(CHECK_INTERVAL)
 
 
 if __name__ == "__main__":
