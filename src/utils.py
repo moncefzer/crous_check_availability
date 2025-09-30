@@ -1,14 +1,15 @@
 import requests
 from typing import Final
+import os
 
 from telegram import Update
 from telegram.ext import Application, filters, MessageHandler, CommandHandler, ContextTypes
 
-BOT_TOKEN: Final = '7617059268:AAGX1jeRFZHC7BrE20D17iPrpFbMS46r7-s'
-BOT_USERNAME: Final = '@crouuus_bot'
-CHAT_IDS = [
-    "1134816473",  # Ton ID Telegram
-]
+
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+CHAT_IDS = os.environ.get("TELEGRAM_CHAT_IDS", "").split(",")
+
+print(BOT_TOKEN)
 
 
 def send(text, chat_id):

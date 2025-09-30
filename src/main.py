@@ -5,6 +5,7 @@ from utils import send_telegram_message
 from constants import LOCATIONS, CHECK_INTERVAL, HEARTBEAT_INTERVAL
 from datetime import datetime
 
+
 url = "https://trouverunlogement.lescrous.fr/api/fr/search/41"
 
 
@@ -19,7 +20,7 @@ payload = {
         {"lon": 3.0532561, "lat": 45.8183838},
         {"lon": 3.1721761, "lat": 45.7556941}
     ],
-        
+
     "residence": None,
     "precision": 6,
     "equipment": [],
@@ -35,36 +36,37 @@ headers = {
 }
 
 
-
 def check_crous(place: str, location: list):
 
     now = datetime.now()
     formatted_string = now.strftime("%Y-%m-%d %H:%M:%S")
 
-
-    try:    
+    try:
         payload['location'] = location
         response = requests.post(url, headers=headers,
                                  data=json.dumps(payload))
+        print('hhe')
         response.raise_for_status()
 
         data = response.json()
         total = data.get('results', {}).get("total", {}).get('value', 0)
 
         print(f'Checked {place} : {total} logements at {formatted_string}')
+        send_telegram_message(
+            f'🚨 {total} logements disponibles a {place} !\n👉 https://trouverunlogement.lescrous.fr/')
 
         if total > 0:
-            send_telegram_message(f'🚨 {total} logements disponibles a {place} !\n👉 https://trouverunlogement.lescrous.fr/')
+            send_telegram_message(
+                f'🚨 {total} logements disponibles a {place} !\n👉 https://trouverunlogement.lescrous.fr/')
 
     except Exception as e:
-        send_telegram_message(f"❌ Erreur lors de la vérification des logements {formatted_string} : {e}")
+        send_telegram_message(
+            f"❌ Erreur lors de la vérification des logements {formatted_string} : {e}")
 
 
 def check_all_crous():
     for place, location in LOCATIONS.items():
         check_crous(place, location)
-
-
 
 
 def main():
