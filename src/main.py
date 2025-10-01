@@ -52,8 +52,7 @@ def check_crous(place: str, location: list):
         total = data.get('results', {}).get("total", {}).get('value', 0)
 
         print(f'Checked {place} : {total} logements at {formatted_string}')
-        send_telegram_message(
-            f'🚨 {total} logements disponibles a {place} !\n👉 https://trouverunlogement.lescrous.fr/')
+        
 
         if total > 0:
             send_telegram_message(
