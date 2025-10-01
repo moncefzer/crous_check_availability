@@ -10,6 +10,7 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHAT_IDS = os.environ.get("TELEGRAM_CHAT_IDS", "").split(",")
 
 print(BOT_TOKEN)
+print(CHAT_IDS)
 
 
 def send(text, chat_id):
